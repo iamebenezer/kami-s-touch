@@ -1,0 +1,13 @@
+
+h1,h2,h3,h3{
+    font-family: Copperplate Gothic Bold;
+}
+p,button,a{
+    font-family:GeoSlab703 Md BT ;
+}
+.nav-link{
+    color: #000;
+}
+.nav-link:hover{
+    color: #ff0000;
+}
